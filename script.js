@@ -19,3 +19,4 @@ function print() {
     document.getElementById("respond").innerText = "Cold";
   }
 }
+btn.addEventListener('click', randomNumGenerator);
